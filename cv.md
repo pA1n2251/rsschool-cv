@@ -17,3 +17,9 @@ I working in EPAM Systems on dev lead role on project. Now want to learn Front-E
 * HTML
 * CSS
 * JS (Basics)
+## Code Example
+```
+function multiply(a, b){
+  return a * b;
+}
+```
