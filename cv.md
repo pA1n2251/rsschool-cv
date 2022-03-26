@@ -29,3 +29,6 @@ Middle developer on EPAM System. Dev lead on project.
 * GSU (Gomel state University)
 * Java EPAM Training
 * AEM EPAM Training
+## English
+* Speaking - A2+(EPAM Assessment 2019 year)
+* Writing - A2(EPAM Assessment 2019 year)
