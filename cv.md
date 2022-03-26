@@ -23,3 +23,5 @@ function multiply(a, b){
   return a * b;
 }
 ```
+## Experience
+Middle developer on EPAM System. Dev lead on project.
