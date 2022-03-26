@@ -25,3 +25,7 @@ function multiply(a, b){
 ```
 ## Experience
 Middle developer on EPAM System. Dev lead on project.
+## Education
+* GSU (Gomel state University)
+* Java EPAM Training
+* AEM EPAM Training
