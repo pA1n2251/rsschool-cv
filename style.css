@@ -1,0 +1,9 @@
+body {
+    width: 650px;
+    margin: 0 auto;
+}
+
+pre {
+    background-color: rgb(236, 235, 235);
+    border: 1px solid rgb(143, 143, 143);
+}
